@@ -60,5 +60,5 @@ MIT
 
 ## 致谢
 
-本项目基于 [GenericAgent](https://github.com/Sophomoresty/gemini-web2api) 二次开发。
+本项目基于 [gemini-web2api](https://github.com/Sophomoresty/gemini-web2api) 二次开发。
 
